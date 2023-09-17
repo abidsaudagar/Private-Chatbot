@@ -1,9 +1,7 @@
 # Private-Chatbot
 Offline Chatbot for Private Document Interaction (Free and Secure)
 
-![langchain]()
-
-<img width="930" alt="SCR-20230917-qbto" src="https://github.com/abidsaudagar/Private-Chatbot/assets/20873579/e9c34bae-b697-4f11-b332-886ae298bc2b">
+![langchain]()<img width="930" alt="SCR-20230917-qbto" src="https://github.com/abidsaudagar/Private-Chatbot/assets/20873579/e9c34bae-b697-4f11-b332-886ae298bc2b">
 
 ## Tech-stack used:
 1. Langchain
